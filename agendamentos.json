@@ -1,0 +1,65 @@
+[
+  {
+    "usuario": "jana",
+    "setor": "Marketing",
+    "sala": "201",
+    "inicio": "2025-04-25T15:27",
+    "fim": "2025-04-25T17:29"
+  },
+  {
+    "usuario": "joao",
+    "setor": "TI",
+    "sala": "101",
+    "inicio": "2025-04-14T17:33",
+    "fim": "2025-04-14T18:34"
+  },
+  {
+    "usuario": "jana",
+    "setor": "Marketing",
+    "sala": "201",
+    "inicio": "2025-04-15T15:37",
+    "fim": "2025-04-15T16:25"
+  },
+  {
+    "usuario": "joao",
+    "setor": "TI",
+    "sala": "101",
+    "inicio": "2025-04-16T21:07",
+    "fim": "2025-04-16T21:30"
+  },
+  {
+    "usuario": "joao",
+    "setor": "TI",
+    "sala": "101",
+    "inicio": "2025-04-15T23:24",
+    "fim": "2025-04-15T20:28"
+  },
+  {
+    "usuario": "joao",
+    "setor": "TI",
+    "sala": "103",
+    "inicio": "2025-04-15T22:35",
+    "fim": "2025-04-16T20:38"
+  },
+  {
+    "usuario": "maria",
+    "setor": "RH",
+    "sala": "101",
+    "inicio": "2025-04-17T22:44",
+    "fim": "2025-04-09T20:44"
+  },
+  {
+    "usuario": "joao",
+    "setor": "TI",
+    "sala": "102",
+    "inicio": "2025-04-26T20:48",
+    "fim": "2025-05-01T20:48"
+  },
+  {
+    "usuario": "patricia",
+    "setor": "TI",
+    "sala": "102",
+    "inicio": "2025-04-28T20:48",
+    "fim": "2025-05-02T20:48"
+  }
+]
